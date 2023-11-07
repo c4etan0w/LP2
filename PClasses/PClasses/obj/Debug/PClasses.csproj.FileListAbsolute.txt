@@ -1,0 +1,24 @@
+c:\users\0030482211022\documents\visual studio 2013\Projects\PClasses\PClasses\bin\Debug\PClasses.exe.config
+c:\users\0030482211022\documents\visual studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.csprojResolveAssemblyReference.cache
+c:\users\0030482211022\documents\visual studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+c:\users\0030482211022\documents\visual studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.Cache
+C:\Users\0030482211022\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.frmPrincipal.resources
+C:\Users\0030482211022\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
+C:\Users\0030482211022\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\0030482211022\Documents\Visual Studio 2013\Projects\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\0030482211022\Documents\Visual Studio 2013\Projects\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\0030482211022\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\0030482211022\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.pdb
+F:\Documentos\PClasses\PClasses\PClasses\bin\Debug\PClasses.exe.config
+F:\Documentos\PClasses\PClasses\PClasses\bin\Debug\PClasses.exe
+F:\Documentos\PClasses\PClasses\PClasses\bin\Debug\PClasses.pdb
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.csproj.AssemblyReference.cache
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.csproj.SuggestedBindingRedirects.cache
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.frmPrincipal.resources
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.exe
+F:\Documentos\PClasses\PClasses\PClasses\obj\Debug\PClasses.pdb
